@@ -1,0 +1,14 @@
+# SPHY-MED Quantum Phase Tunneling Requirements
+# Optimized for Python 3.10+
+
+# Data Processing
+pandas
+numpy
+fastparquet
+pyarrow
+
+# 3D Visualization & Engine
+ursina
+
+# Security & Analytics (Standard library, but dependencies might use)
+hashlib
